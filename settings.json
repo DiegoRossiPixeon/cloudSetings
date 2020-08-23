@@ -50,6 +50,7 @@
         "dbdata",
         "entrypoint",
         "hookform",
+        "jboss",
         "microservices",
         "nestjs",
         "notistack",
