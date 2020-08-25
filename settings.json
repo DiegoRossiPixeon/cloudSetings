@@ -58,6 +58,7 @@
         "prebuild",
         "rabbitmq",
         "reduxsauce",
+        "scrollbar",
         "typeorm",
         "varchar",
         "websockets"
