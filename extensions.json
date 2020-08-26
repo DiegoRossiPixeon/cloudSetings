@@ -51,6 +51,16 @@
   },
   {
     "metadata": {
+      "id": "94cd620d-a2c4-4528-9f78-6facd10f45fc",
+      "publisherId": "dcortes92.FreeMarker",
+      "publisherDisplayName": "dcortes92"
+    },
+    "name": "FreeMarker",
+    "publisher": "dcortes92",
+    "version": "0.0.9"
+  },
+  {
+    "metadata": {
       "id": "c941a679-d500-46a8-b2a9-208063125901",
       "publisherId": "wholroyd.jinja",
       "publisherDisplayName": "wholroyd"
