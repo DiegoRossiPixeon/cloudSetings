@@ -61,6 +61,16 @@
   },
   {
     "metadata": {
+      "id": "f30b63fa-e34a-40af-a573-5de5ecfb6c5e",
+      "publisherId": "k--kato.intellij-idea-keybindings",
+      "publisherDisplayName": "k--kato"
+    },
+    "name": "intellij-idea-keybindings",
+    "publisher": "k--kato",
+    "version": "0.2.41"
+  },
+  {
+    "metadata": {
       "id": "c941a679-d500-46a8-b2a9-208063125901",
       "publisherId": "wholroyd.jinja",
       "publisherDisplayName": "wholroyd"
