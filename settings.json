@@ -72,5 +72,9 @@
         "projectIds": [
             "vscode-test-285612"
         ]
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.helm-path.linux": "/home/argen/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vs-kubernetes.draft-path.linux": "/home/argen/.vs-kubernetes/tools/draft/linux-amd64/draft"
     }
 }
