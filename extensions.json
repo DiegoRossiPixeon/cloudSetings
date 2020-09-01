@@ -137,7 +137,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.44.4"
+    "version": "0.44.5"
   },
   {
     "metadata": {
