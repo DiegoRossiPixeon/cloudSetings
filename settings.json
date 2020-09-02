@@ -46,6 +46,7 @@
         "Keycloak",
         "USEPOLLING",
         "Unprocessable",
+        "clsx",
         "datasource",
         "dbdata",
         "entrypoint",
