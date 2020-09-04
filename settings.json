@@ -48,6 +48,7 @@
         "Phpunit",
         "USEPOLLING",
         "Unprocessable",
+        "ciphertext",
         "clsx",
         "datasource",
         "dbdata",
