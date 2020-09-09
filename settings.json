@@ -81,7 +81,8 @@
     },
     "vs-kubernetes": {
         "vs-kubernetes.helm-path.linux": "/home/argen/.vs-kubernetes/tools/helm/linux-amd64/helm",
-        "vs-kubernetes.draft-path.linux": "/home/argen/.vs-kubernetes/tools/draft/linux-amd64/draft"
+        "vs-kubernetes.draft-path.linux": "/home/argen/.vs-kubernetes/tools/draft/linux-amd64/draft",
+        "vs-kubernetes.minikube-path.linux": "/home/argen/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
     },
     "[html]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
