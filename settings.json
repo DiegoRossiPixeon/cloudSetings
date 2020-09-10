@@ -53,6 +53,7 @@
         "clsx",
         "datasource",
         "dbdata",
+        "dockerize",
         "entrypoint",
         "hookform",
         "jboss",
