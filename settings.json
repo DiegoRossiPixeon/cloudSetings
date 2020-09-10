@@ -62,6 +62,7 @@
         "entrypoint",
         "hookform",
         "jboss",
+        "kubectl",
         "laravel",
         "microservices",
         "nestjs",
