@@ -107,7 +107,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.134.1"
+    "version": "0.140.1"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "remote-ssh",
     "publisher": "ms-vscode-remote",
-    "version": "0.51.0"
+    "version": "0.55.0"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.51.0"
+    "version": "0.55.0"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "vscode-great-icons",
     "publisher": "emmanuelbeziat",
-    "version": "2.1.52"
+    "version": "2.1.56"
   },
   {
     "metadata": {
