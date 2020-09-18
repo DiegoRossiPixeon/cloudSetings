@@ -114,6 +114,7 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "files.exclude": {
+        ".history": true,
         "**/__pycache__": true,
         "**/*.pyc": true
     }
