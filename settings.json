@@ -117,5 +117,6 @@
         ".history": true,
         "**/__pycache__": true,
         "**/*.pyc": true
-    }
+    },
+    "git.autofetch": true
 }
