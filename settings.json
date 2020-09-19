@@ -96,6 +96,7 @@
         "phar",
         "postgresql",
         "prebuild",
+        "pytz",
         "rabbitmq",
         "reduxsauce",
         "schoolofnet",
