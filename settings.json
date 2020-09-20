@@ -93,6 +93,7 @@
         "newson",
         "notistack",
         "originalname",
+        "pgsql",
         "phar",
         "postgresql",
         "prebuild",
