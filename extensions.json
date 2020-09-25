@@ -211,6 +211,16 @@
   },
   {
     "metadata": {
+      "id": "bb9fc30a-080a-40bc-a792-08cc4ed66bcd",
+      "publisherId": "Kelvin.vscode-sshfs",
+      "publisherDisplayName": "Kelvin"
+    },
+    "name": "vscode-sshfs",
+    "publisher": "Kelvin",
+    "version": "1.18.3"
+  },
+  {
+    "metadata": {
       "id": "ec2271c0-9d6d-44c5-93e5-7e8cda744f21",
       "publisherId": "rokoroku.vscode-theme-darcula",
       "publisherDisplayName": "rokoroku"
