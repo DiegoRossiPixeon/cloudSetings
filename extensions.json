@@ -131,6 +131,16 @@
   },
   {
     "metadata": {
+      "id": "fa6b9598-afd0-47b4-95d2-f8b2601840f0",
+      "publisherId": "ms-vscode-remote.remote-ssh-nightly",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-nightly",
+    "publisher": "ms-vscode-remote",
+    "version": "2020.9.34020"
+  },
+  {
+    "metadata": {
       "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
       "publisherId": "ms-vscode-remote.remote-wsl",
       "publisherDisplayName": "ms-vscode-remote"
