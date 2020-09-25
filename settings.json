@@ -143,5 +143,5 @@
         "**/*.pyc": true
     },
     "git.autofetch": true,
-    "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe"
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe"
 }
