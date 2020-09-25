@@ -145,5 +145,6 @@
     "git.autofetch": true,
     "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
     "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\git-bash.exe",
-    "remote.SSH.path": "C:\\\\Program Files\\\\Git\\\\git-bash.exe"
+    "remote.SSH.path": "C:\\\\Program Files\\\\Git\\\\git-bash.exe",
+    "remote.SSH.enableDynamicForwarding": false
 }
