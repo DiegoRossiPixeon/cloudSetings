@@ -150,5 +150,8 @@
         {
             "name": "unnamed"
         }
+    ],
+    "remote.SSH.defaultForwardedPorts": [
+    
     ]
 }
