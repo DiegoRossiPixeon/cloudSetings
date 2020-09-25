@@ -143,5 +143,6 @@
         "**/*.pyc": true
     },
     "git.autofetch": true,
-    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe"
+    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+    "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\git-bash.exe"
 }
