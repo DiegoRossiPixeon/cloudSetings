@@ -151,5 +151,5 @@
         }
     ],
     "remote.SSH.showLoginTerminal": true,
-    "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe "
+    "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe"
 }
