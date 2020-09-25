@@ -142,5 +142,6 @@
         "**/__pycache__": true,
         "**/*.pyc": true
     },
-    "git.autofetch": true
+    "git.autofetch": true,
+    "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe"
 }
