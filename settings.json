@@ -150,6 +150,5 @@
         {
             "name": "unnamed"
         }
-    ],
-    "remote.SSH.enableAgentForwarding": false
+    ]
 }
