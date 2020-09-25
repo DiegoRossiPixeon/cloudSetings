@@ -150,6 +150,5 @@
             "name": "unnamed"
         }
     ],
-    "remote.SSH.logLevel": "trace",
     "remote.SSH.showLoginTerminal": true
 }
