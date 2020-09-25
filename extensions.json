@@ -111,16 +111,6 @@
   },
   {
     "metadata": {
-      "id": "607fd052-be03-4363-b657-2bd62b83d28a",
-      "publisherId": "ms-vscode-remote.remote-ssh",
-      "publisherDisplayName": "ms-vscode-remote"
-    },
-    "name": "remote-ssh",
-    "publisher": "ms-vscode-remote",
-    "version": "0.55.0"
-  },
-  {
-    "metadata": {
       "id": "bfeaf631-bcff-4908-93ed-fda4ef9a0c5c",
       "publisherId": "ms-vscode-remote.remote-ssh-edit",
       "publisherDisplayName": "ms-vscode-remote"
