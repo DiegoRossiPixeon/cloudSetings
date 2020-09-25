@@ -149,5 +149,6 @@
         {
             "name": "unnamed"
         }
-    ]
+    ],
+    "remote.SSH.logLevel": "trace"
 }
