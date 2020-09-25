@@ -142,6 +142,5 @@
         "**/__pycache__": true,
         "**/*.pyc": true
     },
-    "git.autofetch": true,
-    "remote.SSH.allowLocalServerDownload": false
+    "git.autofetch": true
 }
