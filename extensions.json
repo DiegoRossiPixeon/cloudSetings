@@ -131,6 +131,16 @@
   },
   {
     "metadata": {
+      "id": "476ecc1e-b7ff-4c4a-9b47-51c16b2bce34",
+      "publisherId": "ms-vscode-remote.remote-ssh-edit-nightly",
+      "publisherDisplayName": "ms-vscode-remote"
+    },
+    "name": "remote-ssh-edit-nightly",
+    "publisher": "ms-vscode-remote",
+    "version": "2020.9.34020"
+  },
+  {
+    "metadata": {
       "id": "f0c5397b-d357-4197-99f0-cb4202f22818",
       "publisherId": "ms-vscode-remote.remote-wsl",
       "publisherDisplayName": "ms-vscode-remote"
@@ -208,16 +218,6 @@
     "name": "vscode-remote-extensionpack",
     "publisher": "ms-vscode-remote",
     "version": "0.20.0"
-  },
-  {
-    "metadata": {
-      "id": "bb9fc30a-080a-40bc-a792-08cc4ed66bcd",
-      "publisherId": "Kelvin.vscode-sshfs",
-      "publisherDisplayName": "Kelvin"
-    },
-    "name": "vscode-sshfs",
-    "publisher": "Kelvin",
-    "version": "1.18.3"
   },
   {
     "metadata": {
