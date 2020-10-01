@@ -165,6 +165,10 @@
       "value": "#f9e64f"
     },
     {
+      "name": "Laravel",
+      "value": "#fb503b"
+    },
+    {
       "name": "Mandalorian Blue",
       "value": "#1857a4"
     },
@@ -187,10 +191,6 @@
     {
       "name": "Vue Green",
       "value": "#42b883"
-    },
-    {
-      "name": "Something Different",
-      "value": "#832561"
     }
   ]
 }
