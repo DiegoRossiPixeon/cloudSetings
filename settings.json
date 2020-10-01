@@ -1,162 +1,196 @@
 {
-    "workbench.iconTheme": "vscode-great-icons",
-    "sync.autoDownload": true,
-    "sync.autoUpload": true,
-    "sync.forceDownload": true,
-    "sync.forceUpload": true,
-    "sync.quietSync": true,
-    "sync.gist": "f134417fa4753064820b6ee2af194e55",
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
-    "workbench.colorTheme": "Darcula",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "files.autoSave": "onFocusChange",
-    "cSpell.language": "en,pt,pt_BR",
-    "remote.containers.defaultExtensions": [
-        "alefragnani.bookmarks",
-        "naumovs.color-highlight",
-        "donjayamanne.githistory",
-        "ms-vscode.vscode-typescript-tslint-plugin",
-        "visualstudioexptteam.vscodeintellicode",
-        "streetsidesoftware.code-spell-checker",
-        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-        "esbenp.prettier-vscode",
-        "ms-vscode.vscode-typescript-tslint-plugin",
-        "ms-azuretools.vscode-docker",
-        "mikestead.dotenv",
-        "shan.code-settings-sync",
-        "dbaeumer.vscode-eslint",
-        "hazer.reactcodesnippets"
-    ],
-    "docker.containers.sortBy": "CreatedTime",
-    "docker.containers.description": [
-        "ContainerName",
-        "Status"
-    ],
-    "php.suggest.basic": false,
-    "window.zoomLevel": 0,
-    "[typescriptreact]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[typescript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "cSpell.userWords": [
-        "CHOKIDAR",
-        "CLOUDSDK",
-        "CODIGO",
-        "Chown",
-        "DBNAME",
-        "IUGU",
-        "Keycloak",
-        "LANCAMENTO",
-        "MUNICIPIO",
-        "Nfse",
-        "PAGARME",
-        "PAPERTRAIL",
-        "PGADMIN",
-        "POSTGRES",
-        "Phpunit",
-        "SONBOT",
-        "USEPOLLING",
-        "Unprocessable",
-        "XDEBUG",
-        "adminsdk",
-        "assetic",
-        "chmod",
-        "ciphertext",
-        "cloudbuild",
-        "clsx",
-        "codeeducation",
-        "codeflix",
-        "codeplatform",
-        "datasource",
-        "dbdata",
-        "dockerize",
-        "dotenv",
-        "dpage",
-        "elasticapm",
-        "elasticdata",
-        "entrypoint",
-        "gserviceaccount",
-        "hookform",
-        "icomoon",
-        "iconmoon",
-        "jboss",
-        "kibana",
-        "kubectl",
-        "laravel",
-        "linkedin",
-        "mailgun",
-        "mailtrap",
-        "markdownx",
-        "microservices",
-        "nestjs",
-        "newapp",
-        "newson",
-        "nopassword",
-        "notistack",
-        "originalname",
-        "pgsql",
-        "phar",
-        "postgresql",
-        "prebuild",
-        "pytz",
-        "rabbitmq",
-        "reduxsauce",
-        "schoolofnet",
-        "scrollbar",
-        "sensio",
-        "smtp",
-        "sonassets",
-        "sonplatform",
-        "sortedm",
-        "stylesheets",
-        "typeorm",
-        "varchar",
-        "websockets"
-    ],
-    "terminal.integrated.copyOnSelection": true,
-    "auto-close-tag.disableOnLanguage": [
-
-    "[typescript]"
-    ],
-    "cloudcode.gke": {
-        "projectIds": [
-            "vscode-test-285612"
-        ]
-    },
-    "vs-kubernetes": {
-        "vs-kubernetes.helm-path.linux": "/home/argen/.vs-kubernetes/tools/helm/linux-amd64/helm",
-        "vs-kubernetes.draft-path.linux": "/home/argen/.vs-kubernetes/tools/draft/linux-amd64/draft",
-        "vs-kubernetes.minikube-path.linux": "/home/argen/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
-    },
-    "[html]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[yaml]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": "esbenp.prettier-vscode"
-    },
-    "files.exclude": {
-        ".history": true,
-        "**/__pycache__": true,
-        "**/*.pyc": true
-    },
-    "git.autofetch": true,
-    "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
-    "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\git-bash.exe",
-    "sshfs.configs": [
-        {
-            "name": "unnamed"
-        }
-    ],
-    "remote.SSH.showLoginTerminal": true,
-    "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
-    "peacock.elementAdjustments": {
-        "activityBar": "darken",
-        "statusBar": "darken"
+  "workbench.iconTheme": "vscode-great-icons",
+  "sync.autoDownload": true,
+  "sync.autoUpload": true,
+  "sync.forceDownload": true,
+  "sync.forceUpload": true,
+  "sync.quietSync": true,
+  "sync.gist": "f134417fa4753064820b6ee2af194e55",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
+  "workbench.colorTheme": "Darcula",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.autoSave": "onFocusChange",
+  "cSpell.language": "en,pt,pt_BR",
+  "remote.containers.defaultExtensions": [
+    "alefragnani.bookmarks",
+    "naumovs.color-highlight",
+    "donjayamanne.githistory",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "visualstudioexptteam.vscodeintellicode",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "shan.code-settings-sync",
+    "dbaeumer.vscode-eslint",
+    "hazer.reactcodesnippets"
+  ],
+  "docker.containers.sortBy": "CreatedTime",
+  "docker.containers.description": ["ContainerName", "Status"],
+  "php.suggest.basic": false,
+  "window.zoomLevel": 0,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+    "CHOKIDAR",
+    "CLOUDSDK",
+    "CODIGO",
+    "Chown",
+    "DBNAME",
+    "IUGU",
+    "Keycloak",
+    "LANCAMENTO",
+    "MUNICIPIO",
+    "Nfse",
+    "PAGARME",
+    "PAPERTRAIL",
+    "PGADMIN",
+    "POSTGRES",
+    "Phpunit",
+    "SONBOT",
+    "USEPOLLING",
+    "Unprocessable",
+    "XDEBUG",
+    "adminsdk",
+    "assetic",
+    "chmod",
+    "ciphertext",
+    "cloudbuild",
+    "clsx",
+    "codeeducation",
+    "codeflix",
+    "codeplatform",
+    "datasource",
+    "dbdata",
+    "dockerize",
+    "dotenv",
+    "dpage",
+    "elasticapm",
+    "elasticdata",
+    "entrypoint",
+    "gserviceaccount",
+    "hookform",
+    "icomoon",
+    "iconmoon",
+    "jboss",
+    "kibana",
+    "kubectl",
+    "laravel",
+    "linkedin",
+    "mailgun",
+    "mailtrap",
+    "markdownx",
+    "microservices",
+    "nestjs",
+    "newapp",
+    "newson",
+    "nopassword",
+    "notistack",
+    "originalname",
+    "pgsql",
+    "phar",
+    "postgresql",
+    "prebuild",
+    "pytz",
+    "rabbitmq",
+    "reduxsauce",
+    "schoolofnet",
+    "scrollbar",
+    "sensio",
+    "smtp",
+    "sonassets",
+    "sonplatform",
+    "sortedm",
+    "stylesheets",
+    "typeorm",
+    "varchar",
+    "websockets"
+  ],
+  "terminal.integrated.copyOnSelection": true,
+  "auto-close-tag.disableOnLanguage": ["[typescript]"],
+  "cloudcode.gke": {
+    "projectIds": ["vscode-test-285612"]
+  },
+  "vs-kubernetes": {
+    "vs-kubernetes.helm-path.linux": "/home/argen/.vs-kubernetes/tools/helm/linux-amd64/helm",
+    "vs-kubernetes.draft-path.linux": "/home/argen/.vs-kubernetes/tools/draft/linux-amd64/draft",
+    "vs-kubernetes.minikube-path.linux": "/home/argen/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.exclude": {
+    ".history": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  },
+  "git.autofetch": true,
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\git-bash.exe",
+  "terminal.integrated.automationShell.windows": "C:\\Program Files\\Git\\git-bash.exe",
+  "sshfs.configs": [
+    {
+      "name": "unnamed"
     }
+  ],
+  "remote.SSH.showLoginTerminal": true,
+  "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
+  "peacock.elementAdjustments": {
+    "activityBar": "darken",
+    "statusBar": "darken"
+  },
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#dd0531"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#61dafb"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Svelte Orange",
+      "value": "#ff3d00"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    }
+  ]
 }
