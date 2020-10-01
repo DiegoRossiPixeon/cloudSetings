@@ -185,6 +185,10 @@
       "value": "#215732"
     },
     {
+      "name": "RabbitMQ",
+      "value": "#f60"
+    },
+    {
       "name": "React Blue",
       "value": "#61dafb"
     },
