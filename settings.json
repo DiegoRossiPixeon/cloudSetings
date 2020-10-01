@@ -208,5 +208,6 @@
       "name": "Vue Green",
       "value": "#42b883"
     }
-  ]
+],
+"peacock.affectTitleBar": false
 }
