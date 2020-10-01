@@ -127,7 +127,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.9.41220"
+    "version": "2020.9.42660"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.9.41220"
+    "version": "2020.9.42660"
   },
   {
     "metadata": {
