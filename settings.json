@@ -193,6 +193,10 @@
       "value": "#ff3d00"
     },
     {
+      "name": "TypeScript",
+      "value": "#007acc"
+    },
+    {
       "name": "Vue Green",
       "value": "#42b883"
     }
