@@ -148,8 +148,7 @@
   "remote.SSH.showLoginTerminal": true,
   "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
   "peacock.elementAdjustments": {
-    "activityBar": "darken",
-    "statusBar": "darken"
+    "statusBar": "lighten"
   },
   "peacock.favoriteColors": [
 
