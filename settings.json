@@ -152,6 +152,7 @@
     "statusBar": "darken"
   },
   "peacock.favoriteColors": [
+
     {
       "name": "Angular",
       "value": "#a6120d"
@@ -167,6 +168,10 @@
     {
       "name": "JavaScript Yellow",
       "value": "#f9e64f"
+    },
+    {
+      "name": "Keycloak",
+      "value": "#39a5dc",
     },
     {
       "name": "Laravel",
