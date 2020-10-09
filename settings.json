@@ -173,8 +173,6 @@
     {
       "name": "Laravel",
       "value": "#fb503b",
-      "activityBar": "lighten",
-      "statusBar": "lighten",
     },
     {
       "name": "Loopback",
@@ -216,6 +214,6 @@
 "peacock.affectTitleBar": false,
 "peacock.darkenLightenPercentage": 10,
 "peacock.elementAdjustments": {
-  "statusBar": "darken"
+  "statusBar": "lighten"
 }
 }
