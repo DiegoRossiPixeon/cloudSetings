@@ -149,6 +149,7 @@
   "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
   "peacock.favoriteColors": [
 
+
     {
       "name": "Angular",
       "value": "#a6120d"
@@ -167,7 +168,7 @@
     },
     {
       "name": "Keycloak",
-      "value": "#39a5dc",
+      "value": "#39a5dc"
     },
     {
       "name": "Laravel",
