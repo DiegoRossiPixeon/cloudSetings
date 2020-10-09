@@ -214,5 +214,8 @@
     }
 ],
 "peacock.affectTitleBar": false,
-"peacock.darkenLightenPercentage": 10
+"peacock.darkenLightenPercentage": 10,
+"peacock.elementAdjustments": {
+  "statusBar": "darken"
+}
 }
