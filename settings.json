@@ -216,5 +216,6 @@
 "peacock.affectTitleBar": false,
 "peacock.elementAdjustments": {
   "activityBar": "none"
-}
+},
+"peacock.darkenLightenPercentage": 10
 }
