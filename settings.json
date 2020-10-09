@@ -172,7 +172,8 @@
     },
     {
       "name": "Laravel",
-      "value": "#fb503b"
+      "value": "#fb503b",
+      "activityBar": "lighten"
     },
     {
       "name": "Loopback",
