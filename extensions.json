@@ -21,6 +21,16 @@
   },
   {
     "metadata": {
+      "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
+      "publisherId": "alefragnani.Bookmarks",
+      "publisherDisplayName": "alefragnani"
+    },
+    "name": "Bookmarks",
+    "publisher": "alefragnani",
+    "version": "11.4.0"
+  },
+  {
+    "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
       "publisherId": "Shan.code-settings-sync",
       "publisherDisplayName": "Shan"
@@ -28,6 +38,26 @@
     "name": "code-settings-sync",
     "publisher": "Shan",
     "version": "3.4.3"
+  },
+  {
+    "metadata": {
+      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
+      "publisherId": "streetsidesoftware.code-spell-checker",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker",
+    "publisher": "streetsidesoftware",
+    "version": "1.9.2"
+  },
+  {
+    "metadata": {
+      "id": "a669e675-9cb2-48a8-983d-33a1c4ed10ef",
+      "publisherId": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker-portuguese-brazilian",
+    "publisher": "streetsidesoftware",
+    "version": "0.1.4"
   },
   {
     "metadata": {
@@ -58,6 +88,16 @@
     "name": "FreeMarker",
     "publisher": "dcortes92",
     "version": "0.0.9"
+  },
+  {
+    "metadata": {
+      "id": "5960f38e-0bbe-4644-8f9c-9c8824e82511",
+      "publisherId": "donjayamanne.githistory",
+      "publisherDisplayName": "donjayamanne"
+    },
+    "name": "githistory",
+    "publisher": "donjayamanne",
+    "version": "0.6.12"
   },
   {
     "metadata": {
@@ -278,5 +318,15 @@
     "name": "vscode-typescript-tslint-plugin",
     "publisher": "ms-vscode",
     "version": "1.2.3"
+  },
+  {
+    "metadata": {
+      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+      "publisherDisplayName": "VisualStudioExptTeam"
+    },
+    "name": "vscodeintellicode",
+    "publisher": "VisualStudioExptTeam",
+    "version": "1.2.10"
   }
 ]
