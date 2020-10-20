@@ -18,5 +18,9 @@
         "key": "ctrl+k ctrl+c",
         "command": "-editor.action.addCommentLine",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+'",
+        "command": "workbench.action.terminal.new"
     }
 ]
