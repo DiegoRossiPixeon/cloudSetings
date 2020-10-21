@@ -187,7 +187,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.9.42660"
+    "version": "2020.10.29700"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.9.42660"
+    "version": "2020.10.29700"
   },
   {
     "metadata": {
@@ -248,6 +248,16 @@
     "name": "vsc-material-theme-icons",
     "publisher": "equinusocio",
     "version": "1.2.0"
+  },
+  {
+    "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "ms-azuretools.vscode-docker",
+      "publisherDisplayName": "ms-azuretools"
+    },
+    "name": "vscode-docker",
+    "publisher": "ms-azuretools",
+    "version": "1.7.0"
   },
   {
     "metadata": {
