@@ -215,5 +215,6 @@
 "peacock.darkenLightenPercentage": 10,
 "peacock.elementAdjustments": {
   "statusBar": "lighten"
-}
+},
+"terminal.integrated.shell.linux": "/usr/bin/zsh"
 }
