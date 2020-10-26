@@ -216,5 +216,8 @@
 "peacock.elementAdjustments": {
   "statusBar": "lighten"
 },
-"terminal.integrated.shell.linux": "/usr/bin/zsh"
+"terminal.integrated.shell.linux": "/usr/bin/zsh",
+"remote.SSH.remotePlatform": {
+  "192.168.1.53": "linux"
+}
 }
