@@ -21,16 +21,6 @@
   },
   {
     "metadata": {
-      "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
-      "publisherId": "alefragnani.Bookmarks",
-      "publisherDisplayName": "alefragnani"
-    },
-    "name": "Bookmarks",
-    "publisher": "alefragnani",
-    "version": "11.4.0"
-  },
-  {
-    "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
       "publisherId": "Shan.code-settings-sync",
       "publisherDisplayName": "Shan"
@@ -38,26 +28,6 @@
     "name": "code-settings-sync",
     "publisher": "Shan",
     "version": "3.4.3"
-  },
-  {
-    "metadata": {
-      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
-      "publisherId": "streetsidesoftware.code-spell-checker",
-      "publisherDisplayName": "streetsidesoftware"
-    },
-    "name": "code-spell-checker",
-    "publisher": "streetsidesoftware",
-    "version": "1.9.2"
-  },
-  {
-    "metadata": {
-      "id": "a669e675-9cb2-48a8-983d-33a1c4ed10ef",
-      "publisherId": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-      "publisherDisplayName": "streetsidesoftware"
-    },
-    "name": "code-spell-checker-portuguese-brazilian",
-    "publisher": "streetsidesoftware",
-    "version": "0.1.5"
   },
   {
     "metadata": {
@@ -91,16 +61,6 @@
   },
   {
     "metadata": {
-      "id": "5960f38e-0bbe-4644-8f9c-9c8824e82511",
-      "publisherId": "donjayamanne.githistory",
-      "publisherDisplayName": "donjayamanne"
-    },
-    "name": "githistory",
-    "publisher": "donjayamanne",
-    "version": "0.6.12"
-  },
-  {
-    "metadata": {
       "id": "c941a679-d500-46a8-b2a9-208063125901",
       "publisherId": "wholroyd.jinja",
       "publisherDisplayName": "wholroyd"
@@ -128,16 +88,6 @@
     "name": "material-icon-theme",
     "publisher": "PKief",
     "version": "4.3.0"
-  },
-  {
-    "metadata": {
-      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
-      "publisherId": "esbenp.prettier-vscode",
-      "publisherDisplayName": "esbenp"
-    },
-    "name": "prettier-vscode",
-    "publisher": "esbenp",
-    "version": "5.7.1"
   },
   {
     "metadata": {
@@ -251,26 +201,6 @@
   },
   {
     "metadata": {
-      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "ms-azuretools.vscode-docker",
-      "publisherDisplayName": "ms-azuretools"
-    },
-    "name": "vscode-docker",
-    "publisher": "ms-azuretools",
-    "version": "1.7.0"
-  },
-  {
-    "metadata": {
-      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
-      "publisherId": "dbaeumer.vscode-eslint",
-      "publisherDisplayName": "dbaeumer"
-    },
-    "name": "vscode-eslint",
-    "publisher": "dbaeumer",
-    "version": "2.1.13"
-  },
-  {
-    "metadata": {
       "id": "829a192d-496c-44ac-87f3-0a84ce36a853",
       "publisherId": "emmanuelbeziat.vscode-great-icons",
       "publisherDisplayName": "emmanuelbeziat"
@@ -318,25 +248,5 @@
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
     "version": "1.2.1"
-  },
-  {
-    "metadata": {
-      "id": "90a37ca1-92a2-488a-b196-7a8c0b0127ea",
-      "publisherId": "ms-vscode.vscode-typescript-tslint-plugin",
-      "publisherDisplayName": "ms-vscode"
-    },
-    "name": "vscode-typescript-tslint-plugin",
-    "publisher": "ms-vscode",
-    "version": "1.2.3"
-  },
-  {
-    "metadata": {
-      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
-      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
-      "publisherDisplayName": "VisualStudioExptTeam"
-    },
-    "name": "vscodeintellicode",
-    "publisher": "VisualStudioExptTeam",
-    "version": "1.2.10"
   }
 ]
