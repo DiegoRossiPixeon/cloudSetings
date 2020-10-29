@@ -220,5 +220,8 @@
 "terminal.integrated.shell.linux": "/bin/bash",
 "remote.SSH.remotePlatform": {
   "192.168.1.53": "linux"
+},
+"[json]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
 }
