@@ -227,6 +227,5 @@
 "[jsonc]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"editor.mouseWheelZoom": true,
-"window.fontZoomLevel": 0
+"editor.mouseWheelZoom": true
 }
