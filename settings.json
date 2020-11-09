@@ -227,7 +227,5 @@
 "[jsonc]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"editor.mouseWheelZoom": true,
-"terminal.integrated.cwd": "${workspaceFolder}",
-"terminal.integrated.splitCwd": "workspaceRoot"
+"editor.mouseWheelZoom": true
 }
