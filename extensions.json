@@ -157,7 +157,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.51.1"
+    "version": "0.51.2"
   },
   {
     "metadata": {
@@ -168,6 +168,16 @@
     "name": "theme-dracula",
     "publisher": "dracula-theme",
     "version": "2.22.1"
+  },
+  {
+    "metadata": {
+      "id": "3324c5be-43aa-4c39-a0f8-d94c2978804f",
+      "publisherId": "whatwedo.twig",
+      "publisherDisplayName": "whatwedo"
+    },
+    "name": "twig",
+    "publisher": "whatwedo",
+    "version": "1.0.2"
   },
   {
     "metadata": {
