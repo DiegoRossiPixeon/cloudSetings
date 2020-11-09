@@ -217,7 +217,7 @@
 "peacock.elementAdjustments": {
   "statusBar": "lighten"
 },
-"terminal.integrated.shell.linux": "/bin/bash",
+"terminal.integrated.shell.linux": "/usr/bin/bash",
 "remote.SSH.remotePlatform": {
   "192.168.1.53": "linux"
 },
