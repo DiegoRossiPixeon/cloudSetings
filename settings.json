@@ -227,5 +227,6 @@
 "[jsonc]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"editor.mouseWheelZoom": true
+"editor.mouseWheelZoom": true,
+"peacock.darkForegroundColor": ""
 }
