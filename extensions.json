@@ -117,7 +117,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.148.0"
+    "version": "0.148.1"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.55.0"
+    "version": "0.56.0"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.51.2"
+    "version": "0.51.3"
   },
   {
     "metadata": {
