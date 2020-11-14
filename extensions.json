@@ -231,16 +231,6 @@
   },
   {
     "metadata": {
-      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
-      "publisherId": "bmewburn.vscode-intelephense-client",
-      "publisherDisplayName": "bmewburn"
-    },
-    "name": "vscode-intelephense-client",
-    "publisher": "bmewburn",
-    "version": "1.5.4"
-  },
-  {
-    "metadata": {
       "id": "5a7017bf-c571-4d77-b902-6e56b16f539a",
       "publisherId": "johnpapa.vscode-peacock",
       "publisherDisplayName": "johnpapa"

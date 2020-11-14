@@ -230,5 +230,9 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
 "editor.mouseWheelZoom": true,
-"peacock.darkForegroundColor": ""
+"peacock.darkForegroundColor": "",
+"[php]": {
+  "editor.defaultFormatter": "junstyle.php-cs-fixer"
+},
+"php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar"
 }
