@@ -232,7 +232,7 @@
 "editor.mouseWheelZoom": true,
 "peacock.darkForegroundColor": "",
 "[php]": {
-  "editor.defaultFormatter": "junstyle.php-cs-fixer"
+  "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
 },
 "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
 "php-cs-fixer.lastDownload": 1605347483003
