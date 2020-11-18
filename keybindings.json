@@ -22,5 +22,15 @@
     {
         "key": "ctrl+'",
         "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+abnt_c1",
+        "command": "editor.action.removeCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+k ctrl+u",
+        "command": "-editor.action.removeCommentLine",
+        "when": "editorTextFocus && !editorReadonly"
     }
 ]
