@@ -157,7 +157,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.51.3"
+    "version": "0.51.4"
   },
   {
     "metadata": {
@@ -257,6 +257,6 @@
     },
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
-    "version": "1.2.1"
+    "version": "1.2.3"
   }
 ]
