@@ -224,7 +224,7 @@
   "192.168.1.53": "linux"
 },
 "[json]": {
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "vscode.json-language-features"
 },
 "[jsonc]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
