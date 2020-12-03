@@ -137,7 +137,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.11.42661"
+    "version": "2020.12.900"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "vscode-peacock",
     "publisher": "johnpapa",
-    "version": "3.8.0"
+    "version": "3.9.1"
   },
   {
     "metadata": {
