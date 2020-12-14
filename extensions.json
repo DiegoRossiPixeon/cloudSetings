@@ -117,7 +117,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.148.1"
+    "version": "0.154.0"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.58.0"
+    "version": "0.62.0"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.12.5220"
+    "version": "2020.12.19621"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.11.38340"
+    "version": "2020.12.19621"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.51.4"
+    "version": "0.52.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "vsc-material-theme",
     "publisher": "Equinusocio",
-    "version": "33.0.0"
+    "version": "33.1.0"
   },
   {
     "metadata": {
