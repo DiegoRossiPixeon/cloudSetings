@@ -117,7 +117,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.154.0"
+    "version": "0.154.1"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.12.19621"
+    "version": "2020.12.23940"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.12.19621"
+    "version": "2020.12.23940"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "vsc-material-theme",
     "publisher": "Equinusocio",
-    "version": "33.1.0"
+    "version": "33.1.2"
   },
   {
     "metadata": {
