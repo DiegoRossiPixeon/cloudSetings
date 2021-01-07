@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.9"
+    "version": "0.5.10"
   },
   {
     "metadata": {
@@ -17,7 +17,7 @@
     },
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
-    "version": "0.1.5"
+    "version": "0.1.6"
   },
   {
     "metadata": {
@@ -91,6 +91,16 @@
   },
   {
     "metadata": {
+      "id": "64a1c586-bdb1-42b9-ad8d-4f40158121b9",
+      "publisherId": "SimonSiefke.prettier-vscode",
+      "publisherDisplayName": "SimonSiefke"
+    },
+    "name": "prettier-vscode",
+    "publisher": "SimonSiefke",
+    "version": "2.0.7"
+  },
+  {
+    "metadata": {
       "id": "018725bd-f859-47c1-8058-4d7410cdd492",
       "publisherId": "hazer.ReactCodeSnippets",
       "publisherDisplayName": "hazer"
@@ -117,7 +127,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.154.1"
+    "version": "0.154.2"
   },
   {
     "metadata": {
@@ -217,7 +227,7 @@
     },
     "name": "vscode-great-icons",
     "publisher": "emmanuelbeziat",
-    "version": "2.1.62"
+    "version": "2.1.64"
   },
   {
     "metadata": {
@@ -227,7 +237,7 @@
     },
     "name": "vscode-icons",
     "publisher": "vscode-icons-team",
-    "version": "11.0.0"
+    "version": "11.1.0"
   },
   {
     "metadata": {
