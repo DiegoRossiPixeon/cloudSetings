@@ -87,7 +87,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "4.4.0"
+    "version": "4.5.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.12.25381"
+    "version": "2021.1.18424"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2020.12.25381"
+    "version": "2021.1.18424"
   },
   {
     "metadata": {
