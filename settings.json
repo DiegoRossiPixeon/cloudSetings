@@ -237,5 +237,6 @@
 "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
 "php-cs-fixer.lastDownload": 1605347483003,
 "editor.mouseWheelZoom": true,
-"conventionalCommits.lineBreak": "\\n"
+"conventionalCommits.lineBreak": "\\n",
+"git.suggestSmartCommit": false
 }

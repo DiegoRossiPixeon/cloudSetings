@@ -127,7 +127,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.154.2"
+    "version": "0.155.1"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.62.0"
+    "version": "0.63.0"
   },
   {
     "metadata": {
@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.1.19621"
+    "version": "2021.1.26820"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.1.19621"
+    "version": "2021.1.26820"
   },
   {
     "metadata": {
