@@ -156,6 +156,10 @@
       "value": "#dd0531"
     },
     {
+      "name": "Apache Kafka",
+      "value": "#000000"
+    },
+    {
       "name": "Azure Blue",
       "value": "#007fff"
     },
