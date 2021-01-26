@@ -151,35 +151,17 @@
   "remote.SSH.showLoginTerminal": true,
   "remote.SSH.path": "C:\\Program Files\\Git\\usr\\bin\\ssh.exe",
   "peacock.favoriteColors": [
-
-
     {
-      "name": "Angular",
-      "value": "#a6120d"
+      "name": "Angular Red",
+      "value": "#dd0531"
     },
     {
       "name": "Azure Blue",
       "value": "#007fff"
     },
     {
-      "name": "Django",
-      "value": "#092e20"
-    },
-    {
       "name": "JavaScript Yellow",
       "value": "#f9e64f"
-    },
-    {
-      "name": "Keycloak",
-      "value": "#39a5dc"
-    },
-    {
-      "name": "Laravel",
-      "value": "#fb503b",
-    },
-    {
-      "name": "Loopback",
-      "value": "#3f5dff"
     },
     {
       "name": "Mandalorian Blue",
@@ -188,10 +170,6 @@
     {
       "name": "Node Green",
       "value": "#215732"
-    },
-    {
-      "name": "RabbitMQ",
-      "value": "#f60"
     },
     {
       "name": "React Blue",
@@ -206,14 +184,38 @@
       "value": "#ff3d00"
     },
     {
-      "name": "TypeScript",
-      "value": "#007acc"
-    },
-    {
       "name": "Vue Green",
       "value": "#42b883"
+    },
+    {
+      "name": "Angular",
+      "value": "#a6120d"
+    },
+    {
+      "name": "Django",
+      "value": "#092e20"
+    },
+    {
+      "name": "Keycloak",
+      "value": "#39a5dc"
+    },
+    {
+      "name": "Laravel",
+      "value": "#fb503b"
+    },
+    {
+      "name": "Loopback",
+      "value": "#3f5dff"
+    },
+    {
+      "name": "RabbitMQ",
+      "value": "#f60"
+    },
+    {
+      "name": "TypeScript",
+      "value": "#007acc"
     }
-],
+  ],
 "peacock.affectTitleBar": false,
 "peacock.darkenLightenPercentage": 10,
 "peacock.elementAdjustments": {
