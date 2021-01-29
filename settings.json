@@ -252,5 +252,8 @@
 "php-cs-fixer.lastDownload": 1605347483003,
 "editor.mouseWheelZoom": true,
 "conventionalCommits.lineBreak": "\\n",
-"git.suggestSmartCommit": false
+"git.suggestSmartCommit": false,
+"[scss]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
 }
