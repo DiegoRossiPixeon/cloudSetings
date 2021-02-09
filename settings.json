@@ -256,5 +256,7 @@
 "[scss]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 },
-"workbench.editor.wrapTabs": true
+"workbench.editor.wrapTabs": true,
+"workbench.editor.decorations.badges": true,
+"workbench.editor.decorations.colors": true
 }
