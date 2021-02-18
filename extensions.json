@@ -61,6 +61,16 @@
   },
   {
     "metadata": {
+      "id": "7328a705-91fc-49e6-8293-da6f112e482d",
+      "publisherId": "GitHub.github-vscode-theme",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "github-vscode-theme",
+    "publisher": "GitHub",
+    "version": "3.0.0"
+  },
+  {
+    "metadata": {
       "id": "c941a679-d500-46a8-b2a9-208063125901",
       "publisherId": "wholroyd.jinja",
       "publisherDisplayName": "wholroyd"
@@ -127,7 +137,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.63.0"
+    "version": "0.64.0"
   },
   {
     "metadata": {
@@ -137,7 +147,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.2.12421"
+    "version": "2021.2.22500"
   },
   {
     "metadata": {
@@ -147,7 +157,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.2.12420"
+    "version": "2021.2.22500"
   },
   {
     "metadata": {
