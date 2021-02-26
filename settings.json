@@ -31,7 +31,6 @@
   "docker.containers.sortBy": "CreatedTime",
   "docker.containers.description": ["ContainerName", "Status"],
   "php.suggest.basic": false,
-  "window.zoomLevel": 1,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
