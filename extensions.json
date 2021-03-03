@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.2.35460"
+    "version": "2021.3.2340"
   },
   {
     "metadata": {
@@ -227,7 +227,7 @@
     },
     "name": "vscode-great-icons",
     "publisher": "emmanuelbeziat",
-    "version": "2.1.66"
+    "version": "2.1.67"
   },
   {
     "metadata": {
