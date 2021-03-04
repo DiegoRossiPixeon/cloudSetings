@@ -121,6 +121,16 @@
   },
   {
     "metadata": {
+      "id": "86c27965-680c-4a61-9cf9-9e67521b1afc",
+      "publisherId": "samrapdev.outrun",
+      "publisherDisplayName": "samrapdev"
+    },
+    "name": "outrun",
+    "publisher": "samrapdev",
+    "version": "0.2.2"
+  },
+  {
+    "metadata": {
       "id": "64a1c586-bdb1-42b9-ad8d-4f40158121b9",
       "publisherId": "SimonSiefke.prettier-vscode",
       "publisherDisplayName": "SimonSiefke"
