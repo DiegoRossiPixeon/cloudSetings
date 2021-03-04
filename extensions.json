@@ -21,6 +21,16 @@
   },
   {
     "metadata": {
+      "id": "5178733e-4b02-4829-95c5-1ce970847c23",
+      "publisherId": "teabyii.ayu",
+      "publisherDisplayName": "teabyii"
+    },
+    "name": "ayu",
+    "publisher": "teabyii",
+    "version": "0.20.1"
+  },
+  {
+    "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
       "publisherId": "Shan.code-settings-sync",
       "publisherDisplayName": "Shan"
@@ -137,7 +147,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.64.0"
+    "version": "0.65.0"
   },
   {
     "metadata": {
@@ -147,7 +157,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.3.2340"
+    "version": "2021.3.3780"
   },
   {
     "metadata": {
