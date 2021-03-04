@@ -288,5 +288,15 @@
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
     "version": "1.2.3"
+  },
+  {
+    "metadata": {
+      "id": "fd6d3dc6-b307-4589-82a6-78e2afec3d77",
+      "publisherId": "johnpapa.winteriscoming",
+      "publisherDisplayName": "johnpapa"
+    },
+    "name": "winteriscoming",
+    "publisher": "johnpapa",
+    "version": "1.4.3"
   }
 ]
