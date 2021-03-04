@@ -269,6 +269,7 @@
   "editor.defaultFormatter": "mblode.twig-language-2"
 },
 "workbench.colorCustomizations": {
-  "gitDecoration.untrackedResourceForeground": "#ff5e5e"
+  "gitDecoration.untrackedResourceForeground": "#ff5e5e",
+  "gitDecoration.modifiedResourceForeground": "#ff0000"
 }
 }
