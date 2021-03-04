@@ -111,6 +111,16 @@
   },
   {
     "metadata": {
+      "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
+      "publisherId": "zhuangtongfa.material-theme",
+      "publisherDisplayName": "zhuangtongfa"
+    },
+    "name": "material-theme",
+    "publisher": "zhuangtongfa",
+    "version": "3.9.15"
+  },
+  {
+    "metadata": {
       "id": "64a1c586-bdb1-42b9-ad8d-4f40158121b9",
       "publisherId": "SimonSiefke.prettier-vscode",
       "publisherDisplayName": "SimonSiefke"
