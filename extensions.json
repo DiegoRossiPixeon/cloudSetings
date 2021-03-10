@@ -157,7 +157,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.163.0"
+    "version": "0.163.2"
   },
   {
     "metadata": {
@@ -177,7 +177,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.3.6660"
+    "version": "2021.3.12420"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.3.6660"
+    "version": "2021.3.12420"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.54.0"
+    "version": "0.54.2"
   },
   {
     "metadata": {
@@ -307,6 +307,6 @@
     },
     "name": "winteriscoming",
     "publisher": "johnpapa",
-    "version": "1.4.3"
+    "version": "1.4.4"
   }
 ]
