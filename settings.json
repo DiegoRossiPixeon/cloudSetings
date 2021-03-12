@@ -271,6 +271,5 @@
 "workbench.colorCustomizations": {
   "gitDecoration.untrackedResourceForeground": "#ff6666",
   "gitDecoration.modifiedResourceForeground": "#89aeff"
-},
-"window.zoomLevel": 1
+}
 }
