@@ -197,7 +197,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.54.3"
+    "version": "0.54.6"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "vscode-great-icons",
     "publisher": "emmanuelbeziat",
-    "version": "2.1.67"
+    "version": "2.1.68"
   },
   {
     "metadata": {
