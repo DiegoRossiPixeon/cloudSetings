@@ -278,5 +278,6 @@
     "filenamePattern": "*.ipynb"
   }
 ],
-"window.zoomLevel": 1
+"window.zoomLevel": 1,
+"editor.fontFamily": "'JetBrains Mono Regular', Consolas, 'Courier New', monospace"
 }
