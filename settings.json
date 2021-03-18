@@ -279,5 +279,5 @@
   }
 ],
 "window.zoomLevel": 1,
-"editor.fontFamily": "'',Consolas, 'Courier New', monospace"
+"editor.fontFamily": "\"JetBrains Mono\",Consolas, 'Courier New', monospace"
 }
