@@ -280,5 +280,6 @@
 ],
 "editor.inlineHints.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
 "editor.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
-"editor.fontSize": 13.5
+"editor.fontSize": 13.5,
+"window.zoomLevel": 1
 }
