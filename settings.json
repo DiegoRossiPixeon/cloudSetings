@@ -280,5 +280,8 @@
 ],
 "editor.inlineHints.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
 "editor.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
-"editor.fontSize": 13.2
+"editor.fontSize": 13.2,
+"[xml]": {
+  "editor.defaultFormatter": "mblode.pretty-formatter"
+}
 }
