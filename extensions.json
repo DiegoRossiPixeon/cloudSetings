@@ -97,7 +97,7 @@
     },
     "name": "laravel5-snippets",
     "publisher": "onecentlin",
-    "version": "1.11.0"
+    "version": "1.12.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "material-theme",
     "publisher": "zhuangtongfa",
-    "version": "3.10.11"
+    "version": "3.10.12"
   },
   {
     "metadata": {
@@ -198,6 +198,16 @@
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
     "version": "0.54.6"
+  },
+  {
+    "metadata": {
+      "id": "dfc91f03-d4f2-461b-a26d-b8b4dc02474f",
+      "publisherId": "imperez.smarty",
+      "publisherDisplayName": "imperez"
+    },
+    "name": "smarty",
+    "publisher": "imperez",
+    "version": "0.3.0"
   },
   {
     "metadata": {
