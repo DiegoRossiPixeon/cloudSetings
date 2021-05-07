@@ -157,7 +157,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.166.1"
+    "version": "0.177.0"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.54.6"
+    "version": "0.56.1"
   },
   {
     "metadata": {
