@@ -282,6 +282,5 @@
 "editor.fontSize": 13.2,
 "[xml]": {
   "editor.defaultFormatter": "mblode.pretty-formatter"
-},
-"window.zoomLevel": 2
+}
 }
