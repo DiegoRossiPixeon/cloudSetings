@@ -230,7 +230,8 @@
 "peacock.affectTitleBar": false,
 "peacock.darkenLightenPercentage": 10,
 "peacock.elementAdjustments": {
-  "statusBar": "lighten"
+  "statusBar": "lighten",
+  "titleBar": "lighten"
 },
 "terminal.integrated.shell.linux": "/bin/zsh",
 "remote.SSH.remotePlatform": {
