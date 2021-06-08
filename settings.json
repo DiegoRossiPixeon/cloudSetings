@@ -117,8 +117,9 @@
   ],
   "terminal.integrated.copyOnSelection": true,
   "auto-close-tag.disableOnLanguage": [
+
   
-  "[typescript]", "ts"],
+  "[typescript]"],
   "cloudcode.gke": {
     "projectIds": ["vscode-test-285612"]
   },
@@ -285,5 +286,27 @@
 "editor.fontSize": 13.2,
 "[xml]": {
   "editor.defaultFormatter": "mblode.pretty-formatter"
-}
+},
+"auto-close-tag.activationOnLanguage": [
+
+
+  "xml",
+  "php",
+  "blade",
+  "ejs",
+  "jinja",
+  "javascript",
+  "javascriptreact",
+  "typescriptreact",
+  "plaintext",
+  "markdown",
+  "vue",
+  "liquid",
+  "erb",
+  "lang-cfml",
+  "cfml",
+  "HTML (EEx)",
+  "HTML (Eex)",
+  "plist"
+]
 }
