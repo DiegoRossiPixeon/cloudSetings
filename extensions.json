@@ -51,16 +51,6 @@
   },
   {
     "metadata": {
-      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
-      "publisherId": "mikestead.dotenv",
-      "publisherDisplayName": "mikestead"
-    },
-    "name": "dotenv",
-    "publisher": "mikestead",
-    "version": "1.0.1"
-  },
-  {
-    "metadata": {
       "id": "94cd620d-a2c4-4528-9f78-6facd10f45fc",
       "publisherId": "dcortes92.FreeMarker",
       "publisherDisplayName": "dcortes92"
@@ -267,7 +257,7 @@
     },
     "name": "vscode-great-icons",
     "publisher": "emmanuelbeziat",
-    "version": "2.1.76"
+    "version": "2.1.77"
   },
   {
     "metadata": {
