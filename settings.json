@@ -306,5 +306,6 @@
   "HTML (EEx)",
   "HTML (Eex)",
   "plist"
-]
+],
+"override-mark.style.implement": "bold"
 }
