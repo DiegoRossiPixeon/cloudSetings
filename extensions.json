@@ -121,6 +121,16 @@
   },
   {
     "metadata": {
+      "id": "a0af9614-b86b-4446-b570-509284c001ea",
+      "publisherId": "EdgardMessias.override-mark",
+      "publisherDisplayName": "EdgardMessias"
+    },
+    "name": "override-mark",
+    "publisher": "EdgardMessias",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
       "id": "64a1c586-bdb1-42b9-ad8d-4f40158121b9",
       "publisherId": "SimonSiefke.prettier-vscode",
       "publisherDisplayName": "SimonSiefke"
