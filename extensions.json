@@ -191,6 +191,16 @@
   },
   {
     "metadata": {
+      "id": "fc7d7e85-2e58-4c1c-97a3-2172ed9a77cd",
+      "publisherId": "GitHub.remotehub",
+      "publisherDisplayName": "GitHub"
+    },
+    "name": "remotehub",
+    "publisher": "GitHub",
+    "version": "0.10.1"
+  },
+  {
+    "metadata": {
       "id": "dfc91f03-d4f2-461b-a26d-b8b4dc02474f",
       "publisherId": "imperez.smarty",
       "publisherDisplayName": "imperez"
