@@ -278,7 +278,7 @@
   "gitDecoration.modifiedResourceForeground": "#89aeff"
 },
 "workbench.editorAssociations": {
-  "*.ipynb": "jupyter.notebook.ipynb"
+  "*.ipynb": "jupyter-notebook"
 },
 "editor.inlineHints.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
 "editor.fontFamily": "\"JetBrains Mono\", Consolas, 'Courier New', monospace",
@@ -308,5 +308,9 @@
   "HTML (Eex)",
   "plist"
 ],
-"override-mark.style.implement": "bold"
+"override-mark.style.implement": "bold",
+"notebook.cellToolbarLocation": {
+  "default": "right",
+  "jupyter-notebook": "left"
+}
 }
