@@ -312,5 +312,6 @@
 "notebook.cellToolbarLocation": {
   "default": "right",
   "jupyter-notebook": "left"
-}
+},
+"terminal.integrated.defaultProfile.linux": "bash"
 }
