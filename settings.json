@@ -314,5 +314,6 @@
   "default": "right",
   "jupyter-notebook": "left"
 },
-"terminal.integrated.defaultProfile.linux": "bash"
+"terminal.integrated.defaultProfile.linux": "bash",
+"window.zoomLevel": 2
 }
