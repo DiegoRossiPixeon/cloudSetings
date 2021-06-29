@@ -315,5 +315,6 @@
   "jupyter-notebook": "left"
 },
 "terminal.integrated.defaultProfile.linux": "bash",
-"window.zoomLevel": 2
+"window.zoomLevel": 2,
+"terminal.integrated.tabs.enabled": false
 }
