@@ -231,6 +231,16 @@
   },
   {
     "metadata": {
+      "id": "a7fa941e-bcda-486f-8141-8483a6286177",
+      "publisherId": "SonarSource.sonarlint-vscode",
+      "publisherDisplayName": "SonarSource"
+    },
+    "name": "sonarlint-vscode",
+    "publisher": "SonarSource",
+    "version": "2.0.0"
+  },
+  {
+    "metadata": {
       "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
       "publisherId": "dracula-theme.theme-dracula",
       "publisherDisplayName": "dracula-theme"
