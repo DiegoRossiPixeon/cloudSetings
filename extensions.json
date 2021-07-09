@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.10"
+    "version": "0.5.11"
   },
   {
     "metadata": {
@@ -17,7 +17,7 @@
     },
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
-    "version": "0.1.6"
+    "version": "0.1.7"
   },
   {
     "metadata": {
@@ -68,6 +68,16 @@
     "name": "FreeMarker",
     "publisher": "dcortes92",
     "version": "0.0.9"
+  },
+  {
+    "metadata": {
+      "id": "0cfb9d1d-3e59-4c36-a597-157b54e4442b",
+      "publisherId": "vsls-contrib.gistfs",
+      "publisherDisplayName": "vsls-contrib"
+    },
+    "name": "gistfs",
+    "publisher": "vsls-contrib",
+    "version": "0.3.0"
   },
   {
     "metadata": {
