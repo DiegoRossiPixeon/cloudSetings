@@ -127,7 +127,7 @@
     },
     "name": "material-theme",
     "publisher": "zhuangtongfa",
-    "version": "3.10.15"
+    "version": "3.10.16"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.7.18250"
+    "version": "2021.7.19620"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.7.18250"
+    "version": "2021.7.19620"
   },
   {
     "metadata": {
