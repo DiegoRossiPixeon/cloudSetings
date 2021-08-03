@@ -7,7 +7,7 @@
     },
     "name": "auto-close-tag",
     "publisher": "formulahendry",
-    "version": "0.5.11"
+    "version": "0.5.12"
   },
   {
     "metadata": {
@@ -17,7 +17,7 @@
     },
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
-    "version": "0.1.7"
+    "version": "0.1.8"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "theme-dracula",
     "publisher": "dracula-theme",
-    "version": "2.22.4"
+    "version": "2.23.0"
   },
   {
     "metadata": {
@@ -317,7 +317,7 @@
     },
     "name": "vscode-icons",
     "publisher": "vscode-icons-team",
-    "version": "11.5.0"
+    "version": "11.6.0"
   },
   {
     "metadata": {
