@@ -148,8 +148,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "files.exclude": {
-    ".history": true,
     "**/__pycache__": true,
+    "**/.history": true,
     "**/*.pyc": true
   },
   "git.autofetch": true,
