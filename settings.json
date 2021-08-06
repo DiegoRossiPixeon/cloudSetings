@@ -330,5 +330,18 @@
 },
 "search.exclude": {
   "**/.history": true
-}
+},
+"intelephense.references.exclude": [
+  "**/vendor/**",
+  "**/.history/**"
+],
+"python.linting.ignorePatterns": [
+  "**/site-packages/**/*.py",
+  ".vscode/*.py",
+  "**/.history/**/*.py"
+],
+"python.workspaceSymbols.exclusionPatterns": [
+  "**/site-packages/**",
+  "**/.history/**"
+]
 }
