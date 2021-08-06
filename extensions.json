@@ -221,6 +221,16 @@
   },
   {
     "metadata": {
+      "id": "bf8aa94a-4051-42fe-9bd1-2becad466fe7",
+      "publisherId": "Equinusocio.vsc-community-material-theme",
+      "publisherDisplayName": "Equinusocio"
+    },
+    "name": "vsc-community-material-theme",
+    "publisher": "Equinusocio",
+    "version": "1.4.4"
+  },
+  {
+    "metadata": {
       "id": "45bfc9eb-5e03-487f-bffe-315fa6881d6a",
       "publisherId": "Equinusocio.vsc-material-theme",
       "publisherDisplayName": "Equinusocio"
@@ -288,15 +298,5 @@
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
     "version": "1.2.3"
-  },
-  {
-    "metadata": {
-      "id": "fd6d3dc6-b307-4589-82a6-78e2afec3d77",
-      "publisherId": "johnpapa.winteriscoming",
-      "publisherDisplayName": "johnpapa"
-    },
-    "name": "winteriscoming",
-    "publisher": "johnpapa",
-    "version": "1.4.4"
   }
 ]
