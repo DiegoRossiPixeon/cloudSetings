@@ -345,11 +345,8 @@
   "**/.history/**"
 ],
 "local-history.exclude": [
-
   "**/.history/**",
-  "**/.vscode/**",
   "**/node_modules/**",
-  "**/typings/**",
   "**/out/**",
   "**/Code/User/**"
 ]
