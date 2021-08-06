@@ -111,16 +111,6 @@
   },
   {
     "metadata": {
-      "id": "26a529c9-2654-4b95-a63f-02f6a52429e6",
-      "publisherId": "zhuangtongfa.material-theme",
-      "publisherDisplayName": "zhuangtongfa"
-    },
-    "name": "material-theme",
-    "publisher": "zhuangtongfa",
-    "version": "3.11.3"
-  },
-  {
-    "metadata": {
       "id": "a0af9614-b86b-4446-b570-509284c001ea",
       "publisherId": "EdgardMessias.override-mark",
       "publisherDisplayName": "EdgardMessias"
@@ -231,23 +221,23 @@
   },
   {
     "metadata": {
-      "id": "dffaf5a1-2219-434b-9d87-cb586fd59260",
+      "id": "45bfc9eb-5e03-487f-bffe-315fa6881d6a",
       "publisherId": "Equinusocio.vsc-material-theme",
       "publisherDisplayName": "Equinusocio"
     },
     "name": "vsc-material-theme",
     "publisher": "Equinusocio",
-    "version": "33.2.0"
+    "version": "33.2.2"
   },
   {
     "metadata": {
-      "id": "8c609a4f-268a-41fb-8fe6-b6fcd95e8113",
+      "id": "6959958f-be4d-42c4-8aa4-dc2c2f086b0a",
       "publisherId": "equinusocio.vsc-material-theme-icons",
       "publisherDisplayName": "equinusocio"
     },
     "name": "vsc-material-theme-icons",
     "publisher": "equinusocio",
-    "version": "1.2.2"
+    "version": "2.0.10"
   },
   {
     "metadata": {
