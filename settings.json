@@ -327,5 +327,8 @@
 "editor.inlineSuggest.enabled": true,
 "files.watcherExclude": {
   "**/.history": true
+},
+"search.exclude": {
+  "**/.history": true
 }
 }
