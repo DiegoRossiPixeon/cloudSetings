@@ -101,16 +101,6 @@
   },
   {
     "metadata": {
-      "id": "5db78037-f674-459f-a236-db622c427c5b",
-      "publisherId": "PKief.material-icon-theme",
-      "publisherDisplayName": "PKief"
-    },
-    "name": "material-icon-theme",
-    "publisher": "PKief",
-    "version": "4.9.0"
-  },
-  {
-    "metadata": {
       "id": "a0af9614-b86b-4446-b570-509284c001ea",
       "publisherId": "EdgardMessias.override-mark",
       "publisherDisplayName": "EdgardMessias"
@@ -208,26 +198,6 @@
     "name": "twig",
     "publisher": "whatwedo",
     "version": "1.0.2"
-  },
-  {
-    "metadata": {
-      "id": "45bfc9eb-5e03-487f-bffe-315fa6881d6a",
-      "publisherId": "Equinusocio.vsc-material-theme",
-      "publisherDisplayName": "Equinusocio"
-    },
-    "name": "vsc-material-theme",
-    "publisher": "Equinusocio",
-    "version": "33.2.2"
-  },
-  {
-    "metadata": {
-      "id": "6959958f-be4d-42c4-8aa4-dc2c2f086b0a",
-      "publisherId": "equinusocio.vsc-material-theme-icons",
-      "publisherDisplayName": "equinusocio"
-    },
-    "name": "vsc-material-theme-icons",
-    "publisher": "equinusocio",
-    "version": "2.0.10"
   },
   {
     "metadata": {
