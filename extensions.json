@@ -211,16 +211,6 @@
   },
   {
     "metadata": {
-      "id": "bf8aa94a-4051-42fe-9bd1-2becad466fe7",
-      "publisherId": "Equinusocio.vsc-community-material-theme",
-      "publisherDisplayName": "Equinusocio"
-    },
-    "name": "vsc-community-material-theme",
-    "publisher": "Equinusocio",
-    "version": "1.4.4"
-  },
-  {
-    "metadata": {
       "id": "45bfc9eb-5e03-487f-bffe-315fa6881d6a",
       "publisherId": "Equinusocio.vsc-material-theme",
       "publisherDisplayName": "Equinusocio"
