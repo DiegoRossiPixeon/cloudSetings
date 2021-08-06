@@ -121,16 +121,6 @@
   },
   {
     "metadata": {
-      "id": "86c27965-680c-4a61-9cf9-9e67521b1afc",
-      "publisherId": "samrapdev.outrun",
-      "publisherDisplayName": "samrapdev"
-    },
-    "name": "outrun",
-    "publisher": "samrapdev",
-    "version": "0.2.2"
-  },
-  {
-    "metadata": {
       "id": "a0af9614-b86b-4446-b570-509284c001ea",
       "publisherId": "EdgardMessias.override-mark",
       "publisherDisplayName": "EdgardMessias"
@@ -228,16 +218,6 @@
     "name": "smarty",
     "publisher": "imperez",
     "version": "0.3.0"
-  },
-  {
-    "metadata": {
-      "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-      "publisherId": "dracula-theme.theme-dracula",
-      "publisherDisplayName": "dracula-theme"
-    },
-    "name": "theme-dracula",
-    "publisher": "dracula-theme",
-    "version": "2.23.0"
   },
   {
     "metadata": {
