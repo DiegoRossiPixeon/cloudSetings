@@ -21,16 +21,6 @@
   },
   {
     "metadata": {
-      "id": "5178733e-4b02-4829-95c5-1ce970847c23",
-      "publisherId": "teabyii.ayu",
-      "publisherDisplayName": "teabyii"
-    },
-    "name": "ayu",
-    "publisher": "teabyii",
-    "version": "0.20.1"
-  },
-  {
-    "metadata": {
       "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
       "publisherId": "alefragnani.Bookmarks",
       "publisherDisplayName": "alefragnani"
@@ -48,16 +38,6 @@
     "name": "code-settings-sync",
     "publisher": "Shan",
     "version": "3.4.3"
-  },
-  {
-    "metadata": {
-      "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
-      "publisherId": "msjsdiag.debugger-for-chrome",
-      "publisherDisplayName": "msjsdiag"
-    },
-    "name": "debugger-for-chrome",
-    "publisher": "msjsdiag",
-    "version": "4.12.12"
   },
   {
     "metadata": {
@@ -268,16 +248,6 @@
     "name": "twig",
     "publisher": "whatwedo",
     "version": "1.0.2"
-  },
-  {
-    "metadata": {
-      "id": "484d897a-6711-403c-ab54-a96f12be5833",
-      "publisherId": "Equinusocio.vsc-community-material-theme",
-      "publisherDisplayName": "Equinusocio"
-    },
-    "name": "vsc-community-material-theme",
-    "publisher": "Equinusocio",
-    "version": "1.4.2"
   },
   {
     "metadata": {
