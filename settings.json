@@ -349,6 +349,5 @@
   "**/node_modules/**",
   "**/out/**",
   "**/Code/User/**"
-],
-"window.zoomLevel": 2
+]
 }
