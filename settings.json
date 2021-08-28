@@ -1,5 +1,5 @@
 {
-  "workbench.iconTheme": "material-icon-theme",
+  "workbench.iconTheme": "vscode-great-icons",
   "sync.autoDownload": true,
   "sync.autoUpload": true,
   "sync.forceDownload": true,
