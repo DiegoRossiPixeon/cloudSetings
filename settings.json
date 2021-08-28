@@ -240,7 +240,6 @@
       "value": "#007acc"
     }
   ],
-"peacock.darkenLightenPercentage": 10,
 "peacock.elementAdjustments": {
   "statusBar": "lighten",
   "titleBar": "lighten"
@@ -351,5 +350,6 @@
 ],
 "sourcery.token": "user_vqi2QLfINo3phwVTSZNQmcJItPvsCC528BYhhAiSC0uRB2w1BMY2aocgVG8",
 "peacock.affectAccentBorders": true,
-"peacock.affectTabActiveBorder": true
+"peacock.affectTabActiveBorder": true,
+"peacock.darkenLightenPercentage": 10
 }
