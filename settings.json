@@ -352,5 +352,5 @@
 "peacock.affectAccentBorders": true,
 "peacock.affectTabActiveBorder": true,
 "peacock.darkenLightenPercentage": 10,
-"jestrunner.codeLensSelector": "**/*.{test,spec,int\\-spec}.{js,jsx,ts,tsx}"
+"jestrunner.codeLensSelector": "**/*.{test,spec,int-spec}.{js,jsx,ts,tsx}"
 }
