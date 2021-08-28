@@ -101,6 +101,16 @@
   },
   {
     "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
+    },
+    "name": "material-icon-theme",
+    "publisher": "PKief",
+    "version": "4.10.0"
+  },
+  {
+    "metadata": {
       "id": "a0af9614-b86b-4446-b570-509284c001ea",
       "publisherId": "EdgardMessias.override-mark",
       "publisherDisplayName": "EdgardMessias"
