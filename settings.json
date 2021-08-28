@@ -351,6 +351,5 @@
 ],
 "sourcery.token": "user_vqi2QLfINo3phwVTSZNQmcJItPvsCC528BYhhAiSC0uRB2w1BMY2aocgVG8",
 "peacock.affectAccentBorders": true,
-"peacock.affectTabActiveBorder": true,
-"peacock.keepForegroundColor": true
+"peacock.affectTabActiveBorder": true
 }
