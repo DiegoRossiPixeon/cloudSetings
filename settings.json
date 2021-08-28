@@ -240,7 +240,6 @@
       "value": "#007acc"
     }
   ],
-"peacock.affectTitleBar": false,
 "peacock.darkenLightenPercentage": 10,
 "peacock.elementAdjustments": {
   "statusBar": "lighten",
