@@ -360,8 +360,9 @@
   ".env.local.example": "tune",
   ".env.prod.example": "tune",
   ".env.production.example": "tune",
-  ".env.test.example": "tune",
+  ".env.testing.example": "tune",
   ".env.example": "tune",
+  ".env.dusk.testing": "tune",
   "*.int-spec.ts": "test-ts",
 },
 "vsicons.associations.files": [
