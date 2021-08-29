@@ -357,9 +357,6 @@
   ".env.local.example": "env",
 },
 "material-icon-theme.files.associations": {
-  ".env.local.example": "env",
+  ".env.local.example": "tune",
 },
-"vsicons.associations.fileDefault.file": {
-  ".env.local.example": "env",
-}
 }
