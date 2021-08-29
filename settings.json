@@ -358,5 +358,9 @@
 },
 "material-icon-theme.files.associations": {
   ".env.local.example": "tune",
+  ".env.prod.example": "tune",
+  ".env.production.example": "tune",
+  ".env.test.example": "tune",
+  ".env.example": "tune",
 },
 }
