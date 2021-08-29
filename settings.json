@@ -358,4 +358,8 @@
 },
 "material-icon-theme.files.associations": {
   ".env.local.example": "env",
+},
+"vsicons.associations.fileDefault.file": {
+  ".env.local.example": "env",
+}
 }
