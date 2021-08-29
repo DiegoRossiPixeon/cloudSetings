@@ -363,11 +363,7 @@
   ".env.test.example": "tune",
   ".env.example": "tune",
 },
-"vsicons.associations.fileDefault.file": {
-  ".env.local.example": "env",
-  ".env.prod.example": "env",
-  ".env.production.example": "env",
-  ".env.test.example": "env",
-  ".env.example": "env",
-}
+"vsicons.associations.files": [
+  { "icon": "config",  "extensions": [".env.local.example"], "filename": true, "format": "svg" }
+],
 }
