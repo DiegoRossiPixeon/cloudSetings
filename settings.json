@@ -355,7 +355,7 @@
 "jestrunner.codeLensSelector": "**/*.{test,spec,int-spec}.{js,jsx,ts,tsx}",
 "files.associations": {
   ".env.local.example": "env",
-  "*.int-spec.ts": "ts",
+  "*.int-spec.ts": "test",
 },
 "material-icon-theme.files.associations": {
   ".env.local.example": "tune",
@@ -365,6 +365,7 @@
   ".env.example": "tune",
 },
 "vsicons.associations.files": [
-  { "icon": "config",  "extensions": [".env.local.example"], "filename": true, "format": "svg" }
+  { "icon": "config",  "extensions": [".env.local.example"], "filename": true, "format": "svg" },
+  { "icon": "config",  "extensions": ["*.int-spec.ts"], "filename": true, "format": "svg" },
 ],
 }
