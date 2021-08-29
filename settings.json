@@ -357,6 +357,6 @@
   ".env.*.example": "env",
 },
 "material-icon-theme.files.associations": {
-  ".env.*.example": "env",
+  ".env.local.example": ".env",
 }
 }
