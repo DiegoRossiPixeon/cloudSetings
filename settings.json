@@ -362,5 +362,6 @@
   ".env.production.example": "tune",
   ".env.test.example": "tune",
   ".env.example": "tune",
+  "*.int-spec.ts": "test-ts",
 },
 }
