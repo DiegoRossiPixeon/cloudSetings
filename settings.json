@@ -355,7 +355,7 @@
 "jestrunner.codeLensSelector": "**/*.{test,spec,int-spec}.{js,jsx,ts,tsx}",
 "files.associations": {
   ".env.local.example": "env",
-  "*.int-spec.ts": "env",
+  "*.int-spec.ts": "ts",
 },
 "material-icon-theme.files.associations": {
   ".env.local.example": "tune",
