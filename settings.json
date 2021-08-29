@@ -354,7 +354,7 @@
 "peacock.darkenLightenPercentage": 10,
 "jestrunner.codeLensSelector": "**/*.{test,spec,int-spec}.{js,jsx,ts,tsx}",
 "files.associations": {
-  ".env.*.example": "env",
+  ".env.local.example": "env",
 },
 "material-icon-theme.files.associations": {
   ".env.local.example": "env",
