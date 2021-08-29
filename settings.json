@@ -366,6 +366,6 @@
 },
 "vsicons.associations.files": [
   { "icon": "config",  "extensions": [".env.local.example"], "filename": true, "format": "svg" },
-  { "icon": "config",  "extensions": ["*.int-spec.ts"], "filename": true, "format": "svg" },
+  { "icon": "test",  "extensions": ["*.int-spec.ts"], "filename": true, "format": "svg" },
 ],
 }
