@@ -201,6 +201,16 @@
   },
   {
     "metadata": {
+      "id": "ea6a6046-2132-421f-a984-664909fcf0b8",
+      "publisherId": "hediet.vscode-drawio",
+      "publisherDisplayName": "hediet"
+    },
+    "name": "vscode-drawio",
+    "publisher": "hediet",
+    "version": "1.6.2"
+  },
+  {
+    "metadata": {
       "id": "829a192d-496c-44ac-87f3-0a84ce36a853",
       "publisherId": "emmanuelbeziat.vscode-great-icons",
       "publisherDisplayName": "emmanuelbeziat"
