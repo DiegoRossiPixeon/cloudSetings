@@ -371,5 +371,7 @@
 ],
 "editor.bracketPairColorization.enabled": true,
 "javascript.inlayHints.parameterNames.enabled": "all",
-"typescript.inlayHints.parameterNames.enabled": "all"
+"typescript.inlayHints.parameterNames.enabled": "all",
+"javascript.inlayHints.variableTypes.enabled": true,
+"typescript.inlayHints.variableTypes.enabled": true
 }
