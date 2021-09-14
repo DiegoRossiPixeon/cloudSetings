@@ -258,5 +258,15 @@
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
     "version": "1.2.3"
+  },
+  {
+    "metadata": {
+      "id": "4c808376-20ec-41d4-a934-f7601552c4f1",
+      "publisherId": "jcbuisson.vue",
+      "publisherDisplayName": "jcbuisson"
+    },
+    "name": "vue",
+    "publisher": "jcbuisson",
+    "version": "0.1.5"
   }
 ]
