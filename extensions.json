@@ -137,7 +137,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.194.0"
+    "version": "0.194.3"
   },
   {
     "metadata": {
