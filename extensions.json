@@ -231,6 +231,16 @@
   },
   {
     "metadata": {
+      "id": "414b2873-c80e-4dc6-9031-bd185cfb3944",
+      "publisherId": "william-voyek.vscode-nginx",
+      "publisherDisplayName": "william-voyek"
+    },
+    "name": "vscode-nginx",
+    "publisher": "william-voyek",
+    "version": "0.7.2"
+  },
+  {
+    "metadata": {
       "id": "5a7017bf-c571-4d77-b902-6e56b16f539a",
       "publisherId": "johnpapa.vscode-peacock",
       "publisherDisplayName": "johnpapa"
