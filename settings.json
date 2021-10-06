@@ -361,6 +361,8 @@
 },
 "material-icon-theme.files.associations": {
   ".env.local.example": "tune",
+  ".env.dev.example": "tune",
+  ".env.ci.example": "tune",
   ".env.prod.example": "tune",
   ".env.production.example": "tune",
   ".env.testing.example": "tune",
