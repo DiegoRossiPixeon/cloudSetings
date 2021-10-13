@@ -17,7 +17,7 @@
     },
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
-    "version": "0.1.8"
+    "version": "0.1.9"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.202.1"
+    "version": "0.202.3"
   },
   {
     "metadata": {
