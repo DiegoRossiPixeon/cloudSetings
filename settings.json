@@ -386,6 +386,5 @@
 "javascript.inlayHints.variableTypes.enabled": true,
 "javascript.inlayHints.parameterTypes.enabled": true,
 "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
-"javascript.inlayHints.enumMemberValues.enabled": true,
-"window.zoomLevel": 2
+"javascript.inlayHints.enumMemberValues.enabled": true
 }
