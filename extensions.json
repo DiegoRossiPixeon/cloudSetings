@@ -77,7 +77,7 @@
     },
     "name": "github-vscode-theme",
     "publisher": "GitHub",
-    "version": "5.0.0"
+    "version": "5.0.3"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.202.4"
+    "version": "0.202.5"
   },
   {
     "metadata": {
