@@ -388,6 +388,5 @@
 "javascript.inlayHints.enumMemberValues.enabled": true,
 "[handlebars]": {
   "editor.defaultFormatter": "esbenp.prettier-vscode"
-},
-"window.zoomLevel": 2
+}
 }
