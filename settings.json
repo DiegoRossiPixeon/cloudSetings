@@ -24,7 +24,8 @@
     "mikestead.dotenv",
     "shan.code-settings-sync",
     "dbaeumer.vscode-eslint",
-    "hazer.reactcodesnippets"
+    "hazer.reactcodesnippets",
+    "johnpapa.vscode-peacock"
   ],
   "docker.containers.sortBy": "CreatedTime",
   "docker.containers.description": ["ContainerName", "Status"],
