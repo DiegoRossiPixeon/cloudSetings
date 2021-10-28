@@ -18,6 +18,7 @@
     "dbaeumer.vscode-eslint",
     "donjayamanne.githistory",
     "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
     "hazer.reactcodesnippets",
     "johnpapa.vscode-peacock",
     "mikestead.dotenv",
@@ -30,7 +31,9 @@
     "streetsidesoftware.code-spell-checker-portuguese-brazilian",
     "visualstudioexptteam.vscodeintellicode",
     "wwm.better-align",
-    "wix.vscode-import-cost"
+    "wix.vscode-import-cost",
+    "xyz.local-history",
+    "zignd.html-css-class-completion"
   ],
   "docker.containers.sortBy": "CreatedTime",
   "docker.containers.description": ["ContainerName", "Status"],
