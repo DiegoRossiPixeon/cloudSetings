@@ -25,7 +25,9 @@
     "shan.code-settings-sync",
     "dbaeumer.vscode-eslint",
     "hazer.reactcodesnippets",
-    "johnpapa.vscode-peacock"
+    "johnpapa.vscode-peacock",
+    "steoates.autoimport",
+    "wwm.better-align"
   ],
   "docker.containers.sortBy": "CreatedTime",
   "docker.containers.description": ["ContainerName", "Status"],
