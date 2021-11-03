@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.65.8"
+    "version": "0.66.0"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.10.36984"
+    "version": "2021.11.3789"
   },
   {
     "metadata": {
@@ -167,7 +167,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.10.36984"
+    "version": "2021.11.3793"
   },
   {
     "metadata": {
@@ -177,7 +177,7 @@
     },
     "name": "remote-wsl",
     "publisher": "ms-vscode-remote",
-    "version": "0.58.4"
+    "version": "0.58.5"
   },
   {
     "metadata": {
@@ -227,7 +227,7 @@
     },
     "name": "vscode-icons",
     "publisher": "vscode-icons-team",
-    "version": "11.6.0"
+    "version": "11.7.0"
   },
   {
     "metadata": {
