@@ -294,7 +294,7 @@
 },
 "workbench.colorCustomizations": {
   "gitDecoration.untrackedResourceForeground": "#ff6666",
-  "gitDecoration.stageModifiedResourceForeground": "#89aeff"
+  "gitDecoration.modifiedResourceForeground": "#89aeff"
 },
 "workbench.editorAssociations": {
   "*.ipynb": "jupyter-notebook"
