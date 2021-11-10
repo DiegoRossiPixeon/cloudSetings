@@ -121,16 +121,6 @@
   },
   {
     "metadata": {
-      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
-      "publisherId": "esbenp.prettier-vscode",
-      "publisherDisplayName": "esbenp"
-    },
-    "name": "prettier-vscode",
-    "publisher": "esbenp",
-    "version": "9.0.0"
-  },
-  {
-    "metadata": {
       "id": "c807e072-5951-4a01-9542-450f946c7ec1",
       "publisherId": "xabikos.ReactSnippets",
       "publisherDisplayName": "xabikos"
@@ -147,7 +137,7 @@
     },
     "name": "remote-containers",
     "publisher": "ms-vscode-remote",
-    "version": "0.202.5"
+    "version": "0.205.2"
   },
   {
     "metadata": {
@@ -157,7 +147,7 @@
     },
     "name": "remote-ssh-edit",
     "publisher": "ms-vscode-remote",
-    "version": "0.66.0"
+    "version": "0.66.1"
   },
   {
     "metadata": {
@@ -167,7 +157,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.11.3789"
+    "version": "2021.11.10980"
   },
   {
     "metadata": {
@@ -177,7 +167,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.11.3793"
+    "version": "2021.11.10980"
   },
   {
     "metadata": {
