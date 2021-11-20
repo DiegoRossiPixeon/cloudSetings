@@ -147,7 +147,7 @@
     },
     "name": "remote-ssh-edit-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.11.13860"
+    "version": "2021.11.23940"
   },
   {
     "metadata": {
@@ -157,7 +157,7 @@
     },
     "name": "remote-ssh-nightly",
     "publisher": "ms-vscode-remote",
-    "version": "2021.11.13860"
+    "version": "2021.11.23940"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "vscode-drawio",
     "publisher": "hediet",
-    "version": "1.6.2"
+    "version": "1.6.3"
   },
   {
     "metadata": {
@@ -237,7 +237,7 @@
     },
     "name": "vscode-peacock",
     "publisher": "johnpapa",
-    "version": "3.10.1"
+    "version": "4.0.0"
   },
   {
     "metadata": {
